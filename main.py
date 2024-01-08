@@ -1,5 +1,5 @@
 print("Task: X")
-print("Task date: XXX")
+print("Task date: XX.XX.XXXX")
 
 """
 
